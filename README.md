@@ -1,3 +1,5 @@
+Sending special thanks to : https://easyeda.com/<img width="225" height="225" alt="tải xuống" src="https://github.com/user-attachments/assets/2960b80e-4f67-4169-8fc9-1685f5257ac9" />
+
 # HCT72450gen1
  The new openesc-18mosfet project page is cleaner; you can view the old page here https://github.com/hoang0612/openESC-18MOSFET
 # openESC-18MOSFET
@@ -64,3 +66,5 @@ You are free to use, study, modify, and redistribute this project under the term
 You can see a few lines I didn't connect because those are the lines I use to get to the busbar.<img width="1366" height="768" alt="Screenshot (1005)" src="https://github.com/user-attachments/assets/77b832ac-373f-4e72-9785-1160e9c539b0" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3f499345-f1ca-4e2b-ac13-a3b2faf9248f" />
 This final version will have some major changes, such as changing the shunt to three unidirectional shunts and a few other things. 
+<img width="225" height="225" alt="tải xuống" src="https://github.com/user-attachments/assets/af58261a-85f3-4a89-b0cf-8930f57308f1" />
+ special thank https://easyeda.com/
